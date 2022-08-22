@@ -1,0 +1,3 @@
+public class life extends java.applet.Applet {
+   public void paint(java.awt.Graphics graphics) {
+   graphics.drawString("Привет, Мир!", 70, 40);
